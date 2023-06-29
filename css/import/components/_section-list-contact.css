@@ -1,3 +1,29 @@
-.list-contact{
+.list-contact {
     padding: 5%;
+}
+
+.list-contact .container {
+    padding: .5rem;
+    border-radius: 0.625rem;
+    background: var(--c-black-80);
+    margin: 1rem 0;
+}
+
+.list-contact .container .container {
+    border-radius: 100%;
+    background-color: var(--c-black-95);
+    border: 1px dashed var(--c-gray-70);
+    margin-left: 1rem;
+}
+
+.list-contact .container .container img{
+    padding: .5rem;
+}
+
+.list-contact .container p {
+    margin-left: 1rem;
+}
+
+.list-contact ul{
+    height: 330px;
 }

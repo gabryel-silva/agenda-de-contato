@@ -1,0 +1,14 @@
+.list-item {
+    padding: .5rem;
+    border-radius: 0.3125rem 0.3125rem 0rem 0rem;
+    border-bottom: 1px solid var(--c-red-70);
+    background: var(--c-black-95);
+}
+
+.tx-list-item {
+    color: var(--c-white-100);
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

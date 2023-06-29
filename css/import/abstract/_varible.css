@@ -7,7 +7,9 @@
     --c-red-70: #ff1e56;
     --c-yellow-70: #ffac41;
     --c-white-100: #ffffff;
-  
+
+    /*Gradient*/
+    --linear-gradient: linear-gradient(130deg, #FF1E56 0%, #FFAC41 100%);
     /* Fonts */
   
     /* Effects */
